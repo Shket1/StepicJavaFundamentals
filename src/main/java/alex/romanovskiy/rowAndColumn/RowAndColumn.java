@@ -1,4 +1,4 @@
-package alex.romanovskiy;
+package alex.romanovskiy.rowAndColumn;
 
 /*
 Вводятся 2 натуральных числа: n и m. Затем вводится двумерный массив размером n*m.
